@@ -1,0 +1,29 @@
+/* Using float */
+
+/* Large devices (laptops/desktops, 992px and up) */
+/* @media only screen and (max-width: 992px) {
+
+    .column{
+        float: left;
+        width: 50%;
+        padding: 10px;
+    }
+
+} */
+
+/* Using float end */
+
+/* Using flex */
+
+/* Large devices (laptops/desktops, 992px and up) */
+
+
+    .column{
+        
+        flex: 50%;
+        padding: 10px;
+    }
+
+
+
+/* Using flex ends*/
